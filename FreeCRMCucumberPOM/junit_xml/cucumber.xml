@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="135.509465">
+<testcase classname="Free CRM Application Test" name="Create A New Calendar And Verify In The Table" time="135.509465">
+<system-out><![CDATA[Given user opens browser....................................................passed
+When user is on login screen................................................passed
+Then user logged in Successfully............................................passed
+Then validate home page title...............................................passed
+Then validate logged in username............................................passed
+Then validate calendar tab and click on that................................passed
+Then Create A New Calendar From Calendar Tab................................passed
+]]></system-out>
+</testcase>
+</testsuite>
